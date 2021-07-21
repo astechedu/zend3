@@ -1,12 +1,8 @@
-# ZendSkeletonApplication
-
-> ## Repository abandoned 2019-12-31
->
-> This repository has moved to laminas/laminas-skeleton-installer.
+# ZendFramework3 With Database Config
 
 ## Introduction
 
-This is a skeleton application using the Zend Framework MVC layer and module
+This is a skeleton application with database configuration using the Zend Framework MVC layer and module
 systems. This application is meant to be used as a starting place for those
 looking to get their feet wet with Zend Framework.
 
